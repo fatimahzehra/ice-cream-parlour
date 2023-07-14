@@ -1,0 +1,42 @@
+.a{
+    color: red;
+}
+.b,li{
+    list-style: none;
+    display: inline;
+    position: relative;
+    padding-left: 42px;
+    bottom: auto;
+    text-transform: uppercase;
+    
+    
+
+}
+.b{
+    margin-left: 500px;
+    position: relative;
+    font-size:20px;
+    bottom: 13px;
+    
+}
+*{
+    background-color:#f4ebf7 ;
+}
+.x,h1{
+    color:#895f2e ;
+}
+.c,h1{
+    color: red;
+}
+.k,h4{
+    color: #895f2e;
+}
+.y,h4{
+    color: #895f2e;
+}
+.q,h4{
+    color: #895f2e;
+}
+.l.m{
+    display: inline;
+}
